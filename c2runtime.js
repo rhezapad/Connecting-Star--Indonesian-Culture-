@@ -22340,9 +22340,9 @@ cr.behaviors.lunarray_LiteTween = function(runtime)
 cr.getObjectRefTable = function () { return [
 	cr.plugins_.Audio,
 	cr.plugins_.c2canvas,
-	cr.plugins_.Touch,
-	cr.plugins_.Sprite,
 	cr.plugins_.WebStorage,
+	cr.plugins_.Sprite,
+	cr.plugins_.Touch,
 	cr.behaviors.lunarray_LiteTween,
 	cr.system_object.prototype.cnds.OnLayoutStart,
 	cr.plugins_.Sprite.prototype.acts.SetX,
