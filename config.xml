@@ -19,7 +19,7 @@
 	<gap:config-file platform="ios" parent="UIViewControllerBasedStatusBarAppearance"><false/></gap:config-file>
 
 	<preference name="deployment-target" value="8.0" />
-	<preference name="android-minSdkVersion" value="28" />
+	<preference name="android-minSdkVersion" value="23" />
 	<plugin name="cordova-plugin-whitelist" source="npm" />
 	<access origin="*" />
 
